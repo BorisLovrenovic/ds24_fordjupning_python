@@ -1,0 +1,14 @@
+# Huvudbibliotek för embeddings
+sentence-transformers>=2.2.0
+
+# Machine learning och data processing
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualisering
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Extra
+pandas>=2.0.0          # För datahantering
+tqdm>=4.65.0           # Finns redan i sentence-transformers men bra att ha

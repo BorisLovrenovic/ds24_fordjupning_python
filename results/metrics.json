@@ -1,0 +1,23 @@
+{
+  "small": {
+    "intra_similarity": 0.32555443048477173,
+    "inter_separation": 0.6984487175941467,
+    "silhouette_score": 0.06263717263936996,
+    "inference_time_per_query": 0.006920325756072998,
+    "embedding_dimension": 384
+  },
+  "multilingual": {
+    "intra_similarity": 0.3516481816768646,
+    "inter_separation": 0.8693142533302307,
+    "silhouette_score": 0.15890702605247498,
+    "inference_time_per_query": 0.008915412425994872,
+    "embedding_dimension": 384
+  },
+  "large": {
+    "intra_similarity": 0.3558567762374878,
+    "inter_separation": 0.6786632537841797,
+    "silhouette_score": 0.02633518911898136,
+    "inference_time_per_query": 0.020366990566253663,
+    "embedding_dimension": 768
+  }
+}
